@@ -18,7 +18,7 @@ TexEdit is a Fully Operational text editor for any reason or purpose. The main m
  A: Yes, and Even though it's on github, and this place may be new to you, I release stuff all the time! Check here every week or so for updates, New
  Content, and more!
  Q: Is this a virus?
- A: No, of course not! I wouldn't make a virus if I got the whole world 5 seconds later! Viruses are terible. I make FAKE viruses, not ones that harm computers. I make ones for jumps, and for laughs! Not to > > steal info!
+ A: No, of course not! I wouldn't make a virus if I got the whole world 5 seconds later! Viruses are terible. I make FAKE viruses, not ones that harm computers. I make ones for jumps, and for laughs! Not to steal info!
 Q: Is this runnable without Python?
 A: No, it's unable to run unless you have python installed, bacause the exe was to big to put in. The steps to download are simple:
-> Download Python, then run ```pip install pyinstaller``` in CMD or Bash and hit enter. It will install PYINSTALLER into your directory, then type: ```pyinstaller --onefile --icon=TexEdit.png TexEdit.py``` (Or you can paste that) into Bash or CMD while in the directory of the TexEdit.py File. Open the "dist " folder and put the TexEdit.png file inside, then run TexEdit. It will open as if you opened it with python.
+> Download Python, then run ```pip install pyinstaller``` in CMD or Bash and hit enter. It will install PYINSTALLER into your directory, then type: ```pyinstaller --onefile --icon=TexEdit.png TexEdit.py``` (Or you can paste that) into Bash or CMD while in the directory of the TexEdit.py File. Open the "dist " folder and put the TexEdit.png file inside, then run TexEdit. It will open as if you opened it with python. I wanted to upload an exe, but sadly it's too big.
